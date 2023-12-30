@@ -6,5 +6,3 @@ Your challenge is to build out this landing page and get it looking as close to 
 You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
 - [Live Site solution](https://sandesh4141.github.io/blogr-landing-page/)
-
-#bornfireInternship
